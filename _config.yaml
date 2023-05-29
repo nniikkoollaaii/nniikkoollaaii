@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: I'm nniikkoollaaii !
 description: Bookmark this to keep an eye on my project updates!
-include: ['.well-known']
+include: ['.well-known', ' workload-identity-kafka-sasl-oauthbearer/.well-kown']
